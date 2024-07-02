@@ -1,0 +1,17 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "testing three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarred Elijah Spencer Utt",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.166.1"
+  },
+  "devDependencies": {
+    "vite": "^5.3.2"
+  }
+}
